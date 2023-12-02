@@ -9,7 +9,9 @@
 - Install videojs seek button plugin
 ```npm install videojs-seek-buttons```
 - Implement the plugin
-``` player.seekButtons({
+
+```
+player.seekButtons({
             forward: 10,
             back: 10,
           })
