@@ -9,10 +9,11 @@
 - Install videojs seek button plugin
 ```npm install videojs-seek-buttons```
 - Implement the plugin
-```             player.seekButtons({
-                    forward: 10,
-                    back: 10
-                });```
+``` player.seekButtons({
+            forward: 10,
+            back: 10,
+          })
+ ```
 - Use CDN for keyboard seek plugin
 ```<script src="https://cdn.sc.gl/videojs-hotkeys/0.2/videojs.hotkeys.min.js"></script>```
 
