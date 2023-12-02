@@ -5,6 +5,9 @@
 ## Keyboard Controls:
 - Keyboard shortcuts are implemented for seeking through media content.
 
+## Screenshot:
+![Screenshot](https://github.com/vishal7245/bounty1/blob/main/Screenshot%20from%202023-12-02%2020-07-18.png)
+
 ## Implementation
 - Install videojs seek button plugin
 ```npm install videojs-seek-buttons```
